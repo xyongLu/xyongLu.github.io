@@ -136,3 +136,7 @@ name {
 span.highlight {
   background-color: #ffffd0; /*#e4e3e0; #ffffd0;*/
 }
+
+img:hover{
+  border-bottom: 1px solid #000;
+  }
