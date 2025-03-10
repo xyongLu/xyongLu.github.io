@@ -138,5 +138,5 @@ span.highlight {
 }
 
 img:hover{
-  border-bottom: 1px solid #000;
+  border-bottom: 1px dashed #1772d0;
   }
