@@ -1,3 +1,9 @@
+#profile {
+  text-align: center;
+  padding: 30px 10px;
+  position: relative;
+}
+
 #profile ul.social-icon {
   display: inline-flex;
   flex-direction: row;
@@ -136,7 +142,6 @@ name {
   width: 160px;
   height: 160px;
   position: relative;
-  vertical-align: middle;
 }
 
 .two {
