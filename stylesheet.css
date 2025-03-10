@@ -115,6 +115,7 @@ name {
   width: 160px;
   height: 160px;
   position: relative;
+  vertical-align: middle;
 }
 
 .two {
