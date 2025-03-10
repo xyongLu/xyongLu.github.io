@@ -74,7 +74,13 @@ a:hover {
   text-decoration: none;
 }
 
-body,
+body{
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #e4e3e0;
+}
+
+/* body, */
 td,
 th,
 tr,
@@ -127,5 +133,5 @@ name {
 }
 
 span.highlight {
-  background-color:  #e4e3e0; /*#ffffd0;*/
+  background-color: #ffffd0; /*#e4e3e0; #ffffd0;*/
 }
